@@ -1,0 +1,149 @@
+{"level":30,"time":1735715683942,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1735715683943,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1735715683943,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1735715684042,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading commands..."}
+{"level":20,"time":1735715684052,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1735715684053,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1735715684138,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1735715684184,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1735715684186,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1735715684189,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1735715684191,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1735715684755,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1735715684758,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1735715684760,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1735715684762,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1735715684770,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1735715684772,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1735715684776,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1735715684780,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1735715684782,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1735715684793,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1735715684794,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1735715684797,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1735715684799,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1735715684801,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1735715684804,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1735715684805,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1735715684807,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1735715684808,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1735715684809,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1735715684810,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1735715684812,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1735715684813,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1735715684814,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1735715684819,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1735715684820,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1735715684823,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1735715684825,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1735715684827,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1735715684829,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1735715684830,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1735715684831,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1735715684833,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1735715684834,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1735715684835,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1735715684837,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1735715684840,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1735715684842,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1735715684843,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1735715684846,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1735715684848,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1735715684849,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1735715684851,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1735715684852,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1735715684854,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1735715684856,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1735715684858,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1735715684860,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1735715684863,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1735715684865,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1735715684868,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1735715684869,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1735715684871,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1735715684873,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1735715684873,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1735715684877,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1735715684878,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1735715684879,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1735715684880,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1735715684881,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1735715684883,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1735715684885,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1735715684886,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1735715684887,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1735715684891,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1735715684893,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1735715684894,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1735715684895,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1735715684897,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1735715684901,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1735715684905,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1735715684906,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1735715684933,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 42 commands"}
+{"level":30,"time":1735715684933,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1735715684934,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading contexts..."}
+{"level":30,"time":1735715684936,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1735715684936,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1735715684936,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading events..."}
+{"level":30,"time":1735715684982,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1735715685321,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1735715685322,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1735715685790,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1735715686673,"pid":21572,"hostname":"LAPTOP-PD0JMHRC","msg":"Logged in as Helper bot#0717! (966762615441330206)"}
+{"level":30,"time":1735715966901,"pid":4520,"hostname":"LAPTOP-PD0JMHRC","msg":"Validating config file and environment variables"}
+{"level":50,"time":1735715966902,"pid":4520,"hostname":"LAPTOP-PD0JMHRC","msg":"env: BOT_SECRET cannot be empty"}
+{"level":30,"time":1735716073715,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1735716073717,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music links won't work"}
+{"level":40,"time":1735716073717,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1735716073717,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1735716073717,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1735716073844,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading commands..."}
+{"level":20,"time":1735716074770,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1735716074775,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1735716074779,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1735716074785,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1735716074788,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1735716074802,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1735716074803,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1735716074807,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1735716074811,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1735716074814,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1735716074841,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1735716074843,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1735716074846,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1735716074847,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1735716074848,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1735716074850,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1735716074851,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1735716074852,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1735716074853,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1735716074856,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1735716074858,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1735716074860,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1735716074864,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1735716074867,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1735716074906,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1735716074907,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1735716074909,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1735716074962,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 105 commands"}
+{"level":30,"time":1735716074962,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1735716074962,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading contexts..."}
+{"level":30,"time":1735716074964,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1735716074964,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1735716074965,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loading events..."}
+{"level":30,"time":1735716075025,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1735716075420,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1735716075420,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1735716076084,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1735716077009,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Logged in as Helper bot#0717! (966762615441330206)"}
+{"level":20,"time":1735716077010,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1735716077011,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Music Manager initialized"}
+{"level":30,"time":1735716077011,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1735716077028,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","err":{"type":"Error","message":"Error: connect ECONNREFUSED ::1:2333","stack":"Error: Error: connect ECONNREFUSED ::1:2333\n    at Connection._onerror (C:\\Users\\yaruk\\OneDrive\\Desktop\\discord-js-bot-main\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\yaruk\\OneDrive\\Desktop\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\yaruk\\OneDrive\\Desktop\\discord-js-bot-main\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:524:28)\n    at emitErrorAndClose (C:\\Users\\yaruk\\OneDrive\\Desktop\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:1041:13)\n    at ClientRequest.<anonymous> (C:\\Users\\yaruk\\OneDrive\\Desktop\\discord-js-bot-main\\node_modules\\ws\\lib\\websocket.js:881:5)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:104:11)\n    at Socket.socketErrorListener (node:_http_client:512:5)\n    at Socket.emit (node:events:524:28)"},"msg":"Node \"Local Node\" encountered an error: Error: connect ECONNREFUSED ::1:2333.: Error: connect ECONNREFUSED ::1:2333"}
+{"level":30,"time":1735716077033,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1735716077033,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1735716077067,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1735716077970,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"Successfully registered interactions"}
+{"level":50,"time":1735716560198,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"{}"}
+{"level":50,"time":1735716587121,"pid":7796,"hostname":"LAPTOP-PD0JMHRC","msg":"{}"}
